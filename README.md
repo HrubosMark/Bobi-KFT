@@ -1,1 +1,1 @@
-##Az IKT projekt alatt használt Repo
+## Az IKT projekt alatt használt Repo
